@@ -33,13 +33,8 @@
 <br>
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=dracula" width="715" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=abdulnadem5150&theme=dracula" width="715" />
 </div>
-- 👋 Hi, I’m @abdulnadeem5150
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 abdulnadeem5150/abdulnadeem5150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
