@@ -3,7 +3,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
 
-- My website [Portfolio](https://abdulnadeem5150.github.io/abdulnadeem.github.io/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulnadeem5150&label=Profile%20views&color=0e75b6&style=flat" alt="abdulnadeem5150" /> </p>
+
+* My website [Portfolio](https://abdulnadeem5150.github.io/abdulnadeem.github.io/)
 
 - 🌱 I’m currently learning **AWS , DevOps**
 
