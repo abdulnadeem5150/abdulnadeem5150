@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
 
-- [Portfolio](https://abdulnadeem5150.github.io/abdulnadeem.github.io/)
+- My website [Portfolio](https://abdulnadeem5150.github.io/abdulnadeem.github.io/)
 
 - 🌱 I’m currently learning **AWS , DevOps**
 
