@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulnadeem5150&label=Profile%20views&color=0e75b6&style=flat" alt="abdulnadeem5150" /> </p>
 
-* My website [Portfolio](https://abdulnadeem5150.github.io/abdulnadeem.github.io/)
+* My website [Portfolio](https://abdulnadeem5150.github.io/)
 
 - 🌱 I’m currently learning **AWS , DevOps**
 
